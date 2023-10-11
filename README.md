@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 
+
+Studying E&ECE at IIT Kharagpur. Interested in Robotics, Reinforcement Learning and a bit of Computer Vision.
 
 <!--
 **hskalin/hskalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
